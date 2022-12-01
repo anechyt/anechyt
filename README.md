@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrey Nechytailo</h1>
-<h3 align="center">Trainne Software Engineer (.NET / Angular)</h3>
+<h3 align="center">Junior Software Engineer (.NET / Angular)</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anechyt&show_icons=true&locale=en&layout=compact" alt="anechyt" /></p>
 
